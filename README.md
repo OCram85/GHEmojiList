@@ -1,12 +1,12 @@
 # Github Emoji List
 
 ## About
-This list contains all available Emojis in [GitHub flavored Markdown](https://api.github.com/emojis): 
+This list contains all available Emojis in [GitHub flavored Markdown](https://api.github.com/emojis).
 
 ## Emojis
 
-| Emoji | Markdown | Image |
-| ----: | :------- | :---: |
+| Markdown | Emoji | Image |
+| -------: | :---- | :---: |
 | `:+1:` | :+1: | [+1](https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8) |
 | `:-1:` | :-1: | [-1](https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8) |
 | `:100:` | :100: | [100](https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8) |
